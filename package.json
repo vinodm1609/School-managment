@@ -1,0 +1,19 @@
+{
+  "name": "school_managment",
+  "version": "1.0.0",
+  "description": "school managment detail",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodm1609/School-managment.git"
+  },
+  "author": "vinod mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodm1609/School-managment/issues"
+  },
+  "homepage": "https://github.com/vinodm1609/School-managment#readme"
+}
